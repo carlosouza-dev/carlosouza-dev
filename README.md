@@ -1,4 +1,22 @@
-## Hi there 👋
+## CARLOS HENRIQUE
+
+``Develop full stack``
+
+
+### Tecnologias
+<div style="display: inline_block"><br>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,c,python,postgres,mysql,docker,git,linux,spring,wsl" />
+</div>
+
+
+### Plataformas
+<div style="display: inline_block"><br>
+  <img src="https://skillicons.dev/icons?i=github,vscode,idea,postman,supabase" />
+</div>
+          
+          
+          
+          
 
 <!--
 **carlosouza-dev/carlosouza-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
