@@ -1,6 +1,9 @@
 ## CARLOS HENRIQUE
 
-``Develop full stack``
+Estou cursando Análise e Desenvolvimento de Sistema no IFPB. Já tive experiência liderando projetos, programando, fazendo modelagens e documentações.
+Sempre procuro me aperfeiçoar e aprender novas tecnologias
+
+``Develop backend``
 
 
 ### Tecnologias
