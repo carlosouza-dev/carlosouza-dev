@@ -1,7 +1,7 @@
 ## CARLOS HENRIQUE
 
-Estou cursando Análise e Desenvolvimento de Sistema no IFPB. Já tive experiência liderando projetos, programando, fazendo modelagens e documentações.
-Sempre procuro me aperfeiçoar e aprender novas tecnologias
+Estou cursando Análise e Desenvolvimento de Sistema no IFPB
+Sempre procurando me aperfeiçoar e aprender novas tecnologias
 
 ``Develop backend``
 
